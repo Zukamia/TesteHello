@@ -1,1 +1,1 @@
-# Repositório para testes e aprendizador de java e afins.
+# Repositório para testes e aprendizados de java e afins.
