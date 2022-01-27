@@ -6,7 +6,7 @@ public class Calculadora {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        float a, b;
+        float a, b; /*Float para usar numeros quebrados/decimais e int para inteiros*/
 
         System.out.println("Digite o primeiro valor: ");
         a = scan.nextFloat();
